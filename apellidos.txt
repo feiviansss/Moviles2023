@@ -4,8 +4,10 @@ apellidos
 castilo gallo
 diaz de leon
 hoy fiesta loca
-<<<<<<< HEAD
+ main
+
 arriba el america
-=======
+
 no es cierto
->>>>>>> af298d6c3d516919a99f135706b9b11476a8684e
+
+
